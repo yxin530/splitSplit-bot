@@ -1,4 +1,4 @@
-# SplitSplit Telegram Bot
+# Bill Splitting Telegram Bot
 
 A smart Telegram bot that seamlessly splits restaurant bills using AI! Simply drop a photo of a receipt into a group chat, and the bot will use Google Gemini Vision to extract the items, generate an interactive Telegram poll, and automatically calculate exactly how much everyone owes (including evenly distributed tax and service charges).
 
